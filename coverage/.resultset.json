@@ -1,35 +1,31 @@
 {
   "RSpec": {
     "coverage": {
-<<<<<<< HEAD
+      "/Users/zeekio/oyster_cards/spec/journey_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/zeekio/oyster_cards/lib/journey.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/zeekio/oyster_cards/spec/oyster_card_spec.rb": {
-=======
-      "/Users/sabrinalord/Desktop/githubLocal/OysterCards_2/spec/journey_spec.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          null,
-          1,
-          1,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/sabrinalord/Desktop/githubLocal/OysterCards_2/lib/journey.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/sabrinalord/Desktop/githubLocal/OysterCards_2/spec/oyster_card_spec.rb": {
->>>>>>> 4408688cecf8b63a17193bc8ca9b53f099994503
         "lines": [
           null,
           null,
@@ -213,10 +209,6 @@
         ]
       }
     },
-<<<<<<< HEAD
-    "timestamp": 1637838162
-=======
-    "timestamp": 1637837886
->>>>>>> 4408688cecf8b63a17193bc8ca9b53f099994503
+    "timestamp": 1637838940
   }
 }
