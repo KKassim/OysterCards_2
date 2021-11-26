@@ -4,7 +4,7 @@ class Journey
   attr_reader :entry_station, :exit_station
 
   PENALTY_FARE = 1
-  def initialize(entry_station)
+  def initialize(entry_station = nil)
     @entry_station = entry_station
   end
 
